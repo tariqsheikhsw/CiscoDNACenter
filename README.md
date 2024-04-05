@@ -361,6 +361,143 @@ Application Stats Capture
 
     Data Packet Capture
 
+###Pre-Assessment [6/12]
+
+🔘 QX - Which of the following best describes the Assurance component of Cisco DNA Center?
+
+    Provides a web interface to configure access control for network devices and clients.
+
+    X.Provides a web interface that accesses the NDP and displays at-a-glance health and issues dashboards, trends and insights, and guided remediation steps.
+
+    Provides closed-loop automation and provisioning of devices to remediate issues based on calculated insights.
+
+    Provides a web interface to design network locations, define and provision policies, assure network performance and health, and provide guided remediation steps for issues.
 
 
+🔘 QX - Which is the minimum license level necessary for Assurance?
+
+    Basic
+
+    X.Essentials
+
+    Advantage
+
+    Premier
+
+🔘 QX - If you enable device controllability in Cisco DNA Center, describe what happens when a device is discovered, assigned to a site, and then deleted from Cisco DNA Center.
+
+    Cisco DNA Center provisions the device with site attributes and then deprovisions the site attributes when you delete the device.
+
+    X.Cisco DNA Center provisions the device with site attributes, but the site attributes remain provisioned after you delete the device.
+
+    Cisco DNA Center does not provision or deprovision site attributes if you enable device controllability in Cisco DNA Center.
+
+    If you enable device controllability in Cisco DNA Center, you cannot delete the device.
+
+
+🔘 QX - Separate collectors ingest data from a variety of telemetry and contextual sources; which of the following collectors can you customize for its collected KPIs and adjusted polling interval?
+
+    CLI
+
+    Cisco ISE
+
+    NetFlow
+
+    X.SNMP
+
+    syslog
+
+    SNMP traps
+
+    NCP
+
+🔘 QX - Which of the following statements is true about Health scores in Assurance?
+
+    The latest health score calculates every 5-minutes for devices, clients, and applications.
+
+    X.The health score range for clients (wired and wireless) is from 0–10, and a healthy client has a score that ranges from 7–10.
+
+    The overall health of applications is a percentage that is calculated by taking the total number of all healthy applications divided by the total number of applications.
+
+    The health score calculation for network devices cannot be customized.
+
+
+🔘 QX - Which three of the following are true statements regarding streaming telemetry? (Choose three.)
+
+The streaming telemetry data collection mechanism is described as a pull instead of a push mechanism.
+
+ X.Network management platforms subscribe to the collection of streaming telemetry data; the devices publish the data to the platform based on the subscription.
+
+ X.Streaming telemetry publishes to network management platforms periodically or based on changes in the data.
+
+Network devices use more compute resources to forward streaming telemetry, but the network management platforms update faster.
+
+ X.Streaming telemetry is available on Cisco wireless infrastructure devices with specific operating systems.
+
+ 🔘 QX - What are the three parameters that Cisco DNA Center uses to create the network heatmap?
+
+    Site, KPI, RF band
+
+    Period (month/year), KPI, RF band
+
+    X.Site, period (month/year), KPI
+
+    Site, period (month/year), RF band
+
+ 🔘 QX - Which statement best describes the role of the Machine Reasoning Engine in Cisco AI Network Analytics?
+
+    Gathers user feedback to learn relevance, dynamically adapts, and learns from mistakes.
+
+    Performs validation of data, anonymizes the data, forwards to the Cisco cloud-based AI/ML engine for analysis of network insights and trends.
+
+    Determines what is normal for a given network and highlights deviations from expected behavior.
+
+    X.Computes insights based on the embedded knowledge base and evidence, automates complex remediation workflows, and performs complex root cause analysis.
+
+
+ 🔘 QX - Which of the following is available with the on-premise and cloud-based Cisco AI Network Analytics feature, but significantly enhanced when the cloud-based AI/ML engine is connected?
+
+    Baselining
+
+    X.Anomaly Detection
+
+    Insights and Trends
+
+    Comparative Analytics
+
+    Predictive Analytics
+
+
+ 🔘 QX - Cisco DNA Center Assurance communicates with Cisco Aironet 1800 Active sensors through a wired or wireless backhaul channel with which protocol?
+
+    HTTPS
+
+    SSH
+
+    X.SNMP
+
+    JTAPI
+
+ 🔘 QX - Which of the following statements is true regarding the Spectrum Analysis feature?
+
+    The spectrum analysis duration is for 1 minute for up to 10 capture sessions.
+
+    X.The spectrum analysis duration is for 5 minutes for up to 10 capture sessions.
+
+    The spectrum analysis duration is for 5 minutes for up to 20 capture sessions.
+
+    The spectrum analysis duration is for 10 minutes for up to 20 capture sessions.
+
+
+ 🔘 QX - How do you launch the Auto Packet Analyzer feature to troubleshoot client onboarding issues?
+
+    Open Intelligent Capture on Client 360 view, choose an anomaly event that is labeled with a PCAP icon.
+
+    X.Open Intelligent Capture on the Client 360 view and use the Wireless Packet Application Analysis dashlet.
+
+    Use the Assurance > Manage > Intelligent Capture Settings > Client Schedule Capture menu.
+
+    Use the Assurance > Manage > Intelligent Capture Settings > Client Data Packet Capture menu.
+
+###Post-Assessment []
 
