@@ -45,3 +45,22 @@ Provides closed-loop automation and a self-healing network
 
     Cisco DNA Center Administrator Guide
 
+🔘 QX - Which two of the following implementation steps are unnecessary for Assurance to begin monitoring the network, clients, and applications? (Choose two.)
+
+Install Cisco DNA Center
+
+Set up device credentials
+
+Define site hierarchy
+
+Add devices
+
+Assign devices to sites
+
+[✔️]Integrate Cisco ISE
+
+Deploy telemetry profiles
+
+[✔️]Enable AI Network Analytics
+
+
