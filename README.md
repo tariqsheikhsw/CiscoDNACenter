@@ -501,3 +501,303 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
 ###Post-Assessment []
 
+🔘 QX - Which of the following external applications can help populate Cisco DNA Center with an inventory of network devices?
+
+    Cisco Prime Infrastructure
+
+    X.Cisco ISE
+
+    Cisco CMX
+
+    IPAM applications Infoblox and BlueCat
+
+    The correct answer is "Active Directory."
+
+
+🔘 QX - Which is the minimum license level necessary for Assurance?
+
+    Basic
+
+    X.Essentials
+
+    Advantage
+
+    Premier
+
+🔘 QX - What is a supported file format to import a Site from Cisco Prime into Cisco DNA Center?
+
+    X.CSV file
+
+    .bat file
+
+    Python script
+
+    Excel spreadsheet
+
+🔘 QX - Which of the following best describes the Assurance component of Cisco DNA Center?
+
+    Provides a web interface to configure access control for network devices and clients.
+
+    X.Provides a web interface that accesses the NDP and displays at-a-glance health and issues dashboards, trends and insights, and guided remediation steps.
+
+    Provides closed-loop automation and provisioning of devices to remediate issues based on calculated insights.
+
+    Provides a web interface to design network locations, define and provision policies, assure network performance and health, and provide guided remediation steps for issues.
+
+
+🔘 QX - Which IBN functional process best describes the meaning of “intent” when referring to intent-based networking?
+
+    Transforming raw data into meaningful insights.
+
+    Activating network policies into device configuration syntax.
+
+    Assuring operations using network analytics.
+
+    X.Translating business network behavior into a network policy.
+
+🔘 QX - If you enable device controllability in Cisco DNA Center, describe what happens when a device is discovered, assigned to a site, and then deleted from Cisco DNA Center.
+
+    Cisco DNA Center provisions the device with site attributes and then deprovisions the site attributes when you delete the device.
+
+    X.Cisco DNA Center provisions the device with site attributes, but the site attributes remain provisioned after you delete the device.
+
+    Cisco DNA Center does not provision or deprovision site attributes if you enable device controllability in Cisco DNA Center.
+
+    If you enable device controllability in Cisco DNA Center, you cannot delete the device.
+
+🔘 QX - Which of the following best describes the role of Cisco CMX?
+
+    X.Provides the exact location of the clients on a floor map within the Cisco DNA Center user interface.
+
+    Provides Cisco DNA Center with the health of the wireless clients based on radio signal strength.
+
+    Provides authentication and authorization of the wireless clients when attempting to connect to the network that Cisco DNA Center manages.
+
+    Provides a graphical reporting and auditing tool of wireless clients for Cisco DNA Center.
+
+
+🔘 QX - Separate collectors ingest data from a variety of telemetry and contextual sources; which of the following collectors can you customize for its collected KPIs and adjusted polling interval?
+
+    CLI
+
+    Cisco ISE
+
+    NetFlow
+
+    X.SNMP
+
+    syslog
+
+    SNMP traps
+
+    NCP
+
+
+🔘 QX - Which of the following statements is true about Health scores in Assurance?
+
+    The latest health score calculates every 5-minutes for devices, clients, and applications.
+
+    X.The health score range for clients (wired and wireless) is from 0–10, and a healthy client has a score that ranges from 7–10.
+
+    The overall health of applications is a percentage that is calculated by taking the total number of all healthy applications divided by the total number of applications.
+
+    The health score calculation for network devices cannot be customized.
+
+🔘 QX - Which of the following is a true statement regarding the calculation of Client Health scores?
+
+    The latest client health scores are calculated every 15-minutes.
+
+    The overall client health consists of both wired and wireless clients.
+
+    Wired and wireless client health score is based on the onboarding score plus the connectivity score.
+
+    X.A wireless client’s connectivity score is the minimum score of the RSSI score or SNR score.
+
+    The health score calculation for clients can be customized.
+
+🔘 QX - Which three of the following are necessary steps to configure AVC in WLCs? (Choose three.)
+
+X.Add a description containing the keyword lan to the device interfaces that are used for application visibility, then resynchronize the network device.
+
+X.Configure an IP address on the interfaces that are used for application visibility.
+
+Configure SNMP read/write credentials on the device.
+
+Apply the Optimal telemetry profile to the network device.
+
+X.Apply the Maximal telemetry profile to the network device.
+
+
+🔘 QX - Which two of the following are true statements in the calculation of Application Health scores? (Choose two.)
+
+X.The application health score is based on network QoS KPIs and application QoE.
+
+The network QoS KPIs are network utilization, network latency, application server latency, packet loss, and jitter.
+
+The application QoE is based on VoS scores using Cisco Validated Design thresholds based on traffic class per KPI.
+
+X.Application health scores are calculated every 15 minutes.
+
+The health score calculation for applications cannot be customized.
+
+
+🔘 QX - Which three of the following are true statements regarding streaming telemetry? (Choose three.)
+
+The streaming telemetry data collection mechanism is described as a pull instead of a push mechanism.
+
+X.Network management platforms subscribe to the collection of streaming telemetry data; the devices publish the data to the platform based on the subscription.
+
+X.Streaming telemetry publishes to network management platforms periodically or based on changes in the data.
+
+Network devices use more compute resources to forward streaming telemetry, but the network management platforms update faster.
+
+X.Streaming telemetry is available on Cisco wireless infrastructure devices with specific operating systems.
+
+🔘 QX - Which of the following statements is true about Cisco DNA Center Assurance?
+
+    Assurance is a functional component within the Cisco DNA Center NDP.
+
+    Assurance is a functional component within the Cisco DNA Center NCP.
+
+    X.Assurance is a part of the data correlation and analysis stage in the data processing architecture.
+
+    Assurance is an application that uses intent-based APIs to access the Cisco DNA Center datastores.
+
+
+🔘 QX - Which statement best describes the role of the Machine Reasoning Engine in Cisco AI Network Analytics?
+
+    Gathers user feedback to learn relevance, dynamically adapts, and learns from mistakes.
+
+    Performs validation of data, anonymizes the data, forwards to the Cisco cloud-based AI/ML engine for analysis of network insights and trends.
+
+    Determines what is normal for a given network and highlights deviations from expected behavior.
+
+    X.Computes insights based on the embedded knowledge base and evidence, automates complex remediation workflows, and performs complex root cause analysis.
+
+
+🔘 QX - Which two of the following issues are detected by the Cisco AI Network Analytics features? (Choose two.)
+
+X.AP coverage hole issue
+
+WLC excessive time lag from Cisco DNA Center
+
+Onboarding wireless client connection issues
+
+X.Application experience issues
+
+Layer 2 loop issues (switch or router)
+
+🔘 QX - What are the three parameters that Cisco DNA Center uses to create the network heatmap?
+
+    Site, KPI, RF band
+
+    Period (month/year), KPI, RF band
+
+    X.Site, period (month/year), KPI
+
+    Site, period (month/year), RF band
+
+🔘 QX - Which statement best describes the Cisco AI Network Analytics feature?
+
+    Applies advanced artificial intelligence to provide anomaly detection of wired and wireless issues.
+
+    Applies advanced artificial intelligence to provide anomaly resolution of wired and wireless issues.
+
+    X.Applies advanced artificial intelligence and machine learning technologies to provide anomaly detection, remediation, network insights and trends, and comparative benchmarking.
+
+    Applies advanced artificial intelligence to provide network insights and trends and comparative benchmarking.
+
+    Applies ML technology to provide network insights and trends and comparative benchmarking.
+
+🔘 QX - Which statement best describes the use of the Device 360 view for viewing and evaluating issues?
+
+    View the device health score, KPIs, and events on a timeline and list of open, resolved, and ignored issues.
+
+    X.View the device health score, KPIs, and events on a timeline and list of open issues.
+
+    View the device health score and KPIs on a timeline and list of open, resolved, and ignored issues.
+
+    View the device health score and KPIs on a timeline and list of open issues.
+
+    View the device health score on a timeline and list of open issues.
+
+
+🔘 QX - Which four statements are true about beeswarm charts in Cisco DNA Center Assurance for interpreting network insights? (Choose four.)
+
+Circles represent a building and polygons represent an AP radio.
+
+x.Circles represent an AP radio, and polygons represent a building.
+
+x.The number of issues is reflected by a change in color in the shape on the beeswarm chart.
+
+Issues are not represented in a beeswarm chart; only network insights display.
+
+x.Network insights display a 7-day time period.
+
+Network insights display a 4-week time period.
+
+An arrow between shapes indicates the traffic flow between AP devices and buildings.
+
+x.An arrow between shapes indicates a deviation in a monitored KPI.
+
+🔘 QX - Which of the following is available with the on-premise and cloud-based Cisco AI Network Analytics feature, but significantly enhanced when the cloud-based AI/ML engine is connected?
+
+    Baselining
+
+    Anomaly Detection
+
+    x.Insights and Trends
+
+    Comparative Analytics
+
+    Predictive Analytics
+
+🔘 QX - What are three categories of AP stats that Intelligent Capture collects? (Choose three.)
+
+Onboarding Events
+
+x.Channel Utilization
+
+x.Power and Noise
+
+Application Analysis
+
+x.Interference
+
+
+🔘 QX - Which of the following statements regarding sensor tests is true?
+
+    A sensor test template can be configured to test only one SSID.
+
+    x.A sensor test template can be configured to test only one radio band
+
+    A sensor can have only one test template applied.
+
+    Sensor tests can be scheduled only on specific days and times or run at periodic intervals.
+
+    A sensor test template is always applied to all sensors located on the same building floor
+
+🔘 QX - Which two of the following Assurance tools are specific to troubleshooting the wireless infrastructure? (Choose two.)
+
+Client 360 view
+
+Client Health dashboard
+
+x.Sensor tests
+
+x.Intelligent Capture
+
+Cisco AI Network Analytics
+
+🔘 QX - Which of the following statements is true regarding the Spectrum Analysis feature?
+
+    The spectrum analysis duration is for 1 minute for up to 10 capture sessions.
+
+    x.The spectrum analysis duration is for 5 minutes for up to 10 capture sessions.
+
+    The spectrum analysis duration is for 5 minutes for up to 20 capture sessions.
+
+    The spectrum analysis duration is for 10 minutes for up to 20 capture sessions.
+
+
+
