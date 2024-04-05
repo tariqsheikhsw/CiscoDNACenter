@@ -63,4 +63,15 @@ Deploy telemetry profiles
 
 [✔️]Enable AI Network Analytics
 
+🔘 QX - How do you access Cisco DNA Center Assurance?
+
+    Assurance is accessible by installing a client application that you download from Cisco.com.
+
+    Assurance is accessible through the Cisco DNA Center home page by using either a supported web browser (Chrome or Firefox) or a client application that you download from Cisco.com.
+
+    [✔️]Assurance is accessible through the Cisco DNA Center home page by using either a supported web browser (Chrome, Firefox, or Internet Explorer) or a client application that you download from Cisco.com.
+
+    Assurance is accessible through the Cisco DNA Center home page by using a supported web browser (Chrome or Firefox).
+
+    Assurance is accessible the Cisco DNA Center home page by using a supported web browser (Chrome, Firefox, or Internet Explorer).
 
