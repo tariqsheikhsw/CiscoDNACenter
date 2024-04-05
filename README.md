@@ -147,5 +147,108 @@ Machine Learning downloads Cisco Knowledge Base information on a weekly basis.
 AI Network Analytics results, alerts, and visualizations return sensitive data in cleartext.
 
 
-### 
+### Monitoring Health and Performance with Cisco DNA Center Assurance
+
+🔘 QX - Which Cisco DNA Center component provides Assurance with an efficient, scalable data collection and ingestion component, the Analytics engine, and a data-visualization component that uses APIs for data retrieval and quick visualization?
+
+    Network Control Platform (NCP)
+
+     [✔️]Network Data Platform (NDP)
+
+    Kairos cloud-based AI ML engine
+
+    Machine Reasoning Engine
+
+🔘 QX - Which six of the following are components of NDP? (Choose six.)
+
+NCP
+
+[✔️]collectors
+
+[✔️]ingestion bus
+
+[✔️]distributed analytics pipeline
+
+[✔️]Analytics engine
+
+Assurance user interface
+
+[✔️]datastores
+
+[✔️]data access APIs, adapters, SDKs
+
+🔘 QX - At what frequency is the latest health score calculated and displayed in the Assurance dashboards and 360-degree views?
+
+    every 5 seconds
+
+    every 30 seconds
+
+    every 1 minute
+
+    [✔️]every 5 minutes
+
+    every 10 minutes
+
+🔘 QX - Except for the Overall Health dashboard, data on all other dashboards and the 360-degree views can be displayed for what time ranges?
+
+    only the last 3 hours, 24 hours, or 7 days
+
+    any fixed time periods of 3 hours, 24 hours, or 7 days over the last 14 days
+
+    any fixed time periods of 3 hours, 24 hours, or 7 days over the last 30 days
+
+    [✔️]any time range over the last 30 days
+
+🔘 QX - Which two of the following methods do you use to launch a Device 360-degree view? (Choose two.)
+
+From any dashboard, choose the device’s IP address.
+
+ [✔️]From any dashboard, choose the device’s device name.
+
+From the Assurance main menu, choose Health > Device 360 View and choose from a list of devices.
+
+From the Network Health dashboard, right-mouse click a device name.
+
+From the global search, enter the device IP address and choose Device 360.
+
+ [✔️]From the global search, enter the device name and choose Device 360.
+
+
+🔘 QX - The Client 360-degree view presents a wide range of data. Which seven of the following are data categories that you can find on the Client 360 view? (Choose seven.)
+
+[✔️]Timeline trend of client health scores and KPIs
+
+[✔️]Detected issues
+
+[✔️]Onboarding connection details
+
+[✔️]Event Viewer (connection and onboarding activity)
+
+Physical Neighbor Topology
+
+[✔️]Path Trace
+
+[✔️]Application Experience
+
+[✔️]Detail Information (device info, connectivity, wireless RF stats)
+
+
+🔘 QX -Network devices use NBAR2 to recognize and classify application traffic; the application health scores are based on several application traffic telemetry sources. Which of the following sources is available only for TCP-based applications?
+
+    Flexible NetFlow
+
+    Perfmon
+
+[✔️]ART monitor
+
+    Cisco Class-Based QoS MIB
+
+    Cisco IP SLA
+
+    APIs
+
+
+### Troubleshooting Issues, Observing Insights and Trends
+
+
 
