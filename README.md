@@ -6,8 +6,8 @@
 
     Activate business policy through automation.
 
-    Export analytics for threat analysis
-
+**    Export analytics for threat analysis
+**
     Assure intent through analytics.
 
 
