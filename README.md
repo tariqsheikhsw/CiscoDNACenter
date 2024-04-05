@@ -250,5 +250,117 @@ Physical Neighbor Topology
 
 ### Troubleshooting Issues, Observing Insights and Trends
 
+🔘 QX - Which of the following describes the process of training mathematical models to characterize each network and the relationship of the network state with underlying variables?
+
+    Dynamic Relevance Learning
+
+    Artificial Intelligence
+
+    [✔️]Machine Learning
+
+    Machine Reasoning
+
+
+🔘 QX - How do you know if the issue was detected by the Cisco AI Network Analytics feature?
+
+    [✔️]The issue is marked in the Open Issues dashboard with an AI icon.
+
+    The issue appears in the AI Issues dashboard.
+
+    The issue is marked in the Open Issues dashboard with a P1 priority.
+
+    AI-driven issues display on the Assurance Summary section on the Cisco DNA Center home page.
+
+
+🔘 QX - The Cisco AI Network Analytics feature provides which two of the following categories of network insights? (Choose two.)
+
+[✔️]Capacity
+
+Security
+
+Coverage
+
+[✔️]Throughput
+
+
+🔘 QX - Cisco DNA Center provides insights into which four of the following technologies and metrics? (Choose four.)
+
+[✔️]Wi-Fi 6
+
+DoS attacks
+
+[✔️]Rogue APs
+
+[✔️]aWIPS
+
+[✔️]Cisco FabricPath
+
+PoE
+
+### Troubleshooting Wireless Issues with Cisco DNA Center Assurance Tools
+
+🔘 QX - Which feature must you configure or enable to detect excessive onboarding time in comparison to a computed baseline?
+
+    Sensor tests
+
+    Streaming telemetry
+
+    Intelligent Capture on APs
+
+    [✔️]Cloud-based Cisco AI Network Analytics
+
+    Cisco CMX integration
+
+🔘 QX - Which two of the following sensor tests will provide statistics on network jitter, latency, and packet loss? (Choose two.)
+
+Host Reachability
+
+RADIUS Network Services
+
+ [✔️]Internet (NDT)
+
+Onboarding Association
+
+RF Assessment Data Rate
+
+ [✔️]IP SLA
+
+
+🔘 QX - What two Intelligent Capture options can you enable on APs by using Cisco DNA Center Assurance? (Choose two.)
+
+ [✔️]Anomaly Capture
+
+WLC Stats Capture
+
+Client Stats Capture
+
+ [✔️]AP Stats Capture
+
+Application Stats Capture
+
+🔘 QX - How many time slots are available on an AP for either Live or Scheduled client capture sessions?
+
+    4
+
+    8
+
+    [✔️] 16
+
+    32
+
+
+🔘 QX - Which Intelligent Capture feature can collect 5-second samples of client RF statistics (RSSI, SNR, Rx data rate, Rx/Tx Packets, Tx packet retries)?
+
+    Anomaly Capture
+
+    AP Stats Capture
+
+    [✔️]Live Capture
+
+    Scheduled Capture
+
+    Data Packet Capture
+
+
 
 
