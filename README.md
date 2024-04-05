@@ -1,5 +1,7 @@
 # CiscoDNACenter
 
+### Introducing Cisco DNA Center Assurance
+
 🔘 QX - Which of the following is not a functional building block of IBN management?
 
     Translate business intent into a policy.
@@ -75,4 +77,75 @@ Deploy telemetry profiles
 
     Assurance is accessible the Cisco DNA Center home page by using a supported web browser (Chrome, Firefox, or Internet Explorer).
 
+
+🔘 QX - Where in Cisco DNA Center do you create the hierarchy for your network along with the network settings?
+
+    [✔️]Design
+
+    Policy
+
+    Provision
+
+    Assurance
+
+    Platform
+
+🔘 QX - Which service allows Cisco ISE and Cisco DNA Center to exchange information securely?
+
+    Service Exchange Protocol (SXP)
+
+    Dynamic Link Exchange Platform (DLEP)
+
+    [✔️]Cisco Platform Exchange Grid (pxGrid)
+
+    Data Center Bridging Exchange (DCBX)
+
+
+🔘 QX - Which of the following statements is correct?
+
+    You are required to manually draw a map of the city where your campus is located.
+
+    [✔️]You will see a map on the Network Hierarchy if you have internet access.
+
+    Settings from a parent site are never inherited by a subarea.
+
+    Use “admin” for your device CLI credentials when you are using Cisco ISE as your AAA server.
+
+🔘 QX - Which of the following statements is correct?
+
+    A wireless controller must be assigned to a floor.
+
+    [✔️]Devices are assigned to a site from the Design page.
+
+    Device controllability is disabled by default.
+
+    NETCONF is necessary for enabling wireless services on the C9800 device.
+
+
+🔘 QX - When you are adding APs to the floor map, which of the following statements is true?
+
+    By default, the heatmap displays the effects of RF signals bouncing off obstructions.
+
+    Thick walls are automatically calculated around the perimeter of the building.
+
+     [✔️]Whenever you add, edit, or delete overlays on the floor map, you must choose Recompute.
+
+    The Refresh option will recalculate the changes to the heatmap calculations.
+
+
+
+🔘 QX - Which two of the following statements are correct? (Choose two.)
+
+Enabling AI Network Analytics happens daily.
+
+ [✔️]Anonymization replaces sensitive data with an encrypted equivalent.
+
+Machine Learning downloads Cisco Knowledge Base information on a weekly basis.
+
+ [✔️]The MR Knowledge Base updates ensure that you have the latest advisories and improve analysis.
+
+AI Network Analytics results, alerts, and visualizations return sensitive data in cleartext.
+
+
+### 
 
