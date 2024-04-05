@@ -499,7 +499,7 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     Use the Assurance > Manage > Intelligent Capture Settings > Client Data Packet Capture menu.
 
-###Post-Assessment []
+###Post-Assessment [12/28]
 
 🔘 QX - Which of the following external applications can help populate Cisco DNA Center with an inventory of network devices?
 
@@ -798,6 +798,42 @@ Cisco AI Network Analytics
     The spectrum analysis duration is for 5 minutes for up to 20 capture sessions.
 
     The spectrum analysis duration is for 10 minutes for up to 20 capture sessions.
+
+🔘 QX - How do you launch the Auto Packet Analyzer feature to troubleshoot client onboarding issues?
+
+    Open Intelligent Capture on Client 360 view, choose an anomaly event that is labeled with a PCAP icon.
+
+    x.Open Intelligent Capture on the Client 360 view and use the Wireless Packet Application Analysis dashlet.
+
+    Use the Assurance > Manage > Intelligent Capture Settings > Client Schedule Capture menu.
+
+    Use the Assurance > Manage > Intelligent Capture Settings > Client Data Packet Capture menu.
+
+
+🔘 QX - Cisco DNA Center Assurance communicates with Cisco Aironet 1800 Active sensors through a wired or wireless backhaul channel with which protocol?
+
+    HTTPS
+
+    SSH
+
+    SNMP
+
+    x.JTAPI
+
+🔘 QX - Which two of the following must you enable in Cisco DNA Center or integrate with Cisco DNA Center to allow you to view coverage heatmaps with real-time wireless client location tracking? (Choose two.)
+
+X.Cisco CMX Integration
+
+Intelligent Capture
+
+Cisco AI Network Analytics
+
+Cisco ISE Integration
+
+X.Cisco Aironet 1800s Active Sensor
+
+
+
 
 
 
