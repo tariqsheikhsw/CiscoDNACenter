@@ -22,3 +22,16 @@
     [✔️] Design, Policy, Provision, Assurance
 
 
+🔘 QX - Which four of the following key features are currently available in Cisco DNA Center Assurance and Analytics? (Choose four.)
+
+[✔️] Provides health insights
+
+[✔️] Detects complex issues
+
+[✔️] Provides guided issue remediation
+
+[✔️] Provides insights and trends
+
+Provides closed-loop automation and a self-healing network
+
+
