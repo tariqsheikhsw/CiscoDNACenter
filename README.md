@@ -35,3 +35,13 @@
 Provides closed-loop automation and a self-healing network
 
 
+🔘 QX - Which of the following resources can you use to verify the minimum and recommended Cisco IOS Software release that is necessary for Assurance for a specific device model?
+
+    [✔️]Cisco DNA Center Compatibility Matrix Tool
+
+    Cisco DNA Center Data Sheet
+
+    Cisco DNA Center Release Notes
+
+    Cisco DNA Center Administrator Guide
+
