@@ -388,7 +388,7 @@ Application Stats Capture
 
     Cisco DNA Center provisions the device with site attributes and then deprovisions the site attributes when you delete the device.
 
-    X.Cisco DNA Center provisions the device with site attributes, but the site attributes remain provisioned after you delete the device.
+    X.Cisco DNA Center provisions the device with site attributes, but the site attributes remain provisioned after you delete the device.However, the option to deprovision the site attributes is presented.
 
     Cisco DNA Center does not provision or deprovision site attributes if you enable device controllability in Cisco DNA Center.
 
@@ -413,9 +413,9 @@ Application Stats Capture
 
 🔘 QX - Which of the following statements is true about Health scores in Assurance?
 
-    The latest health score calculates every 5-minutes for devices, clients, and applications.
+    X.The latest health score calculates every 5-minutes for devices, clients, and applications.
 
-    X.The health score range for clients (wired and wireless) is from 0–10, and a healthy client has a score that ranges from 7–10.
+    The health score range for clients (wired and wireless) is from 0–10, and a healthy client has a score that ranges from 7–10.
 
     The overall health of applications is a percentage that is calculated by taking the total number of all healthy applications divided by the total number of applications.
 
@@ -482,11 +482,11 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     The spectrum analysis duration is for 1 minute for up to 10 capture sessions.
 
-    X.The spectrum analysis duration is for 5 minutes for up to 10 capture sessions.
+    The spectrum analysis duration is for 5 minutes for up to 10 capture sessions.
 
     The spectrum analysis duration is for 5 minutes for up to 20 capture sessions.
 
-    The spectrum analysis duration is for 10 minutes for up to 20 capture sessions.
+    X.The spectrum analysis duration is for 10 minutes for up to 20 capture sessions.
 
 
  🔘 QX - How do you launch the Auto Packet Analyzer feature to troubleshoot client onboarding issues?
@@ -503,9 +503,9 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
 🔘 QX - Which of the following external applications can help populate Cisco DNA Center with an inventory of network devices?
 
-    Cisco Prime Infrastructure
+    X.Cisco Prime Infrastructure
 
-    X.Cisco ISE
+    Cisco ISE
 
     Cisco CMX
 
@@ -609,9 +609,9 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     The overall client health consists of both wired and wireless clients.
 
-    Wired and wireless client health score is based on the onboarding score plus the connectivity score.
+    X.Wired and wireless client health score is based on the onboarding score plus the connectivity score.
 
-    X.A wireless client’s connectivity score is the minimum score of the RSSI score or SNR score.
+    A wireless client’s connectivity score is the minimum score of the RSSI score or SNR score.
 
     The health score calculation for clients can be customized.
 
@@ -634,9 +634,9 @@ X.The application health score is based on network QoS KPIs and application QoE.
 
 The network QoS KPIs are network utilization, network latency, application server latency, packet loss, and jitter.
 
-The application QoE is based on VoS scores using Cisco Validated Design thresholds based on traffic class per KPI.
+X.The application QoE is based on VoS scores using Cisco Validated Design thresholds based on traffic class per KPI.
 
-X.Application health scores are calculated every 15 minutes.
+Application health scores are calculated every 15 minutes.
 
 The health score calculation for applications cannot be customized.
 
@@ -655,11 +655,11 @@ X.Streaming telemetry is available on Cisco wireless infrastructure devices with
 
 🔘 QX - Which of the following statements is true about Cisco DNA Center Assurance?
 
-    Assurance is a functional component within the Cisco DNA Center NDP.
+    X.Assurance is a functional component within the Cisco DNA Center NDP.
 
     Assurance is a functional component within the Cisco DNA Center NCP.
 
-    X.Assurance is a part of the data correlation and analysis stage in the data processing architecture.
+    Assurance is a part of the data correlation and analysis stage in the data processing architecture.
 
     Assurance is an application that uses intent-based APIs to access the Cisco DNA Center datastores.
 
@@ -677,11 +677,11 @@ X.Streaming telemetry is available on Cisco wireless infrastructure devices with
 
 🔘 QX - Which two of the following issues are detected by the Cisco AI Network Analytics features? (Choose two.)
 
-X.AP coverage hole issue
+AP coverage hole issue
 
 WLC excessive time lag from Cisco DNA Center
 
-Onboarding wireless client connection issues
+X.Onboarding wireless client connection issues
 
 X.Application experience issues
 
@@ -711,9 +711,9 @@ Layer 2 loop issues (switch or router)
 
 🔘 QX - Which statement best describes the use of the Device 360 view for viewing and evaluating issues?
 
-    View the device health score, KPIs, and events on a timeline and list of open, resolved, and ignored issues.
+    X.View the device health score, KPIs, and events on a timeline and list of open, resolved, and ignored issues.
 
-    X.View the device health score, KPIs, and events on a timeline and list of open issues.
+    View the device health score, KPIs, and events on a timeline and list of open issues.
 
     View the device health score and KPIs on a timeline and list of open, resolved, and ignored issues.
 
@@ -732,9 +732,9 @@ x.The number of issues is reflected by a change in color in the shape on the bee
 
 Issues are not represented in a beeswarm chart; only network insights display.
 
-x.Network insights display a 7-day time period.
+Network insights display a 7-day time period.
 
-Network insights display a 4-week time period.
+x.Network insights display a 4-week time period.
 
 An arrow between shapes indicates the traffic flow between AP devices and buildings.
 
@@ -744,9 +744,9 @@ x.An arrow between shapes indicates a deviation in a monitored KPI.
 
     Baselining
 
-    Anomaly Detection
+    x.Anomaly Detection
 
-    x.Insights and Trends
+    Insights and Trends
 
     Comparative Analytics
 
@@ -769,9 +769,9 @@ x.Interference
 
     A sensor test template can be configured to test only one SSID.
 
-    x.A sensor test template can be configured to test only one radio band
+    A sensor test template can be configured to test only one radio band
 
-    A sensor can have only one test template applied.
+    x.A sensor can have only one test template applied.
 
     Sensor tests can be scheduled only on specific days and times or run at periodic intervals.
 
@@ -801,9 +801,9 @@ Cisco AI Network Analytics
 
 🔘 QX - How do you launch the Auto Packet Analyzer feature to troubleshoot client onboarding issues?
 
-    Open Intelligent Capture on Client 360 view, choose an anomaly event that is labeled with a PCAP icon.
+    x.Open Intelligent Capture on Client 360 view, choose an anomaly event that is labeled with a PCAP icon.
 
-    x.Open Intelligent Capture on the Client 360 view and use the Wireless Packet Application Analysis dashlet.
+    Open Intelligent Capture on the Client 360 view and use the Wireless Packet Application Analysis dashlet.
 
     Use the Assurance > Manage > Intelligent Capture Settings > Client Schedule Capture menu.
 
@@ -812,25 +812,25 @@ Cisco AI Network Analytics
 
 🔘 QX - Cisco DNA Center Assurance communicates with Cisco Aironet 1800 Active sensors through a wired or wireless backhaul channel with which protocol?
 
-    HTTPS
+    x.HTTPS
 
     SSH
 
     SNMP
 
-    x.JTAPI
+    JTAPI
 
 🔘 QX - Which two of the following must you enable in Cisco DNA Center or integrate with Cisco DNA Center to allow you to view coverage heatmaps with real-time wireless client location tracking? (Choose two.)
 
 X.Cisco CMX Integration
 
-Intelligent Capture
+X.Intelligent Capture
 
 Cisco AI Network Analytics
 
 Cisco ISE Integration
 
-X.Cisco Aironet 1800s Active Sensor
+Cisco Aironet 1800s Active Sensor
 
 
 
