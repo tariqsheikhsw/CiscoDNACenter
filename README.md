@@ -367,7 +367,7 @@ Application Stats Capture
 
     Provides a web interface to configure access control for network devices and clients.
 
-    X.Provides a web interface that accesses the NDP and displays at-a-glance health and issues dashboards, trends and insights, and guided remediation steps.
+    [✔️] Provides a web interface that accesses the NDP and displays at-a-glance health and issues dashboards, trends and insights, and guided remediation steps.
 
     Provides closed-loop automation and provisioning of devices to remediate issues based on calculated insights.
 
@@ -378,7 +378,7 @@ Application Stats Capture
 
     Basic
 
-    X.Essentials
+    [✔️]Essentials
 
     Advantage
 
@@ -388,7 +388,7 @@ Application Stats Capture
 
     Cisco DNA Center provisions the device with site attributes and then deprovisions the site attributes when you delete the device.
 
-    X.Cisco DNA Center provisions the device with site attributes, but the site attributes remain provisioned after you delete the device.However, the option to deprovision the site attributes is presented.
+    [✔️]Cisco DNA Center provisions the device with site attributes, but the site attributes remain provisioned after you delete the device.However, the option to deprovision the site attributes is presented.
 
     Cisco DNA Center does not provision or deprovision site attributes if you enable device controllability in Cisco DNA Center.
 
@@ -403,7 +403,7 @@ Application Stats Capture
 
     NetFlow
 
-    X.SNMP
+   [✔️]SNMP
 
     syslog
 
@@ -413,7 +413,7 @@ Application Stats Capture
 
 🔘 QX - Which of the following statements is true about Health scores in Assurance?
 
-    X.The latest health score calculates every 5-minutes for devices, clients, and applications.
+   [✔️]The latest health score calculates every 5-minutes for devices, clients, and applications.
 
     The health score range for clients (wired and wireless) is from 0–10, and a healthy client has a score that ranges from 7–10.
 
@@ -426,13 +426,13 @@ Application Stats Capture
 
 The streaming telemetry data collection mechanism is described as a pull instead of a push mechanism.
 
- X.Network management platforms subscribe to the collection of streaming telemetry data; the devices publish the data to the platform based on the subscription.
+ [✔️]Network management platforms subscribe to the collection of streaming telemetry data; the devices publish the data to the platform based on the subscription.
 
- X.Streaming telemetry publishes to network management platforms periodically or based on changes in the data.
+ [✔️]Streaming telemetry publishes to network management platforms periodically or based on changes in the data.
 
 Network devices use more compute resources to forward streaming telemetry, but the network management platforms update faster.
 
- X.Streaming telemetry is available on Cisco wireless infrastructure devices with specific operating systems.
+ [✔️]Streaming telemetry is available on Cisco wireless infrastructure devices with specific operating systems.
 
  🔘 QX - What are the three parameters that Cisco DNA Center uses to create the network heatmap?
 
@@ -440,7 +440,7 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     Period (month/year), KPI, RF band
 
-    X.Site, period (month/year), KPI
+    [✔️]Site, period (month/year), KPI
 
     Site, period (month/year), RF band
 
@@ -452,14 +452,14 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     Determines what is normal for a given network and highlights deviations from expected behavior.
 
-    X.Computes insights based on the embedded knowledge base and evidence, automates complex remediation workflows, and performs complex root cause analysis.
+    [✔️]Computes insights based on the embedded knowledge base and evidence, automates complex remediation workflows, and performs complex root cause analysis.
 
 
  🔘 QX - Which of the following is available with the on-premise and cloud-based Cisco AI Network Analytics feature, but significantly enhanced when the cloud-based AI/ML engine is connected?
 
     Baselining
 
-    X.Anomaly Detection
+    [✔️]Anomaly Detection
 
     Insights and Trends
 
@@ -474,7 +474,7 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     SSH
 
-    X.SNMP
+    [✔️]SNMP
 
     JTAPI
 
@@ -486,14 +486,14 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     The spectrum analysis duration is for 5 minutes for up to 20 capture sessions.
 
-    X.The spectrum analysis duration is for 10 minutes for up to 20 capture sessions.
+    [✔️]The spectrum analysis duration is for 10 minutes for up to 20 capture sessions.
 
 
  🔘 QX - How do you launch the Auto Packet Analyzer feature to troubleshoot client onboarding issues?
 
     Open Intelligent Capture on Client 360 view, choose an anomaly event that is labeled with a PCAP icon.
 
-    X.Open Intelligent Capture on the Client 360 view and use the Wireless Packet Application Analysis dashlet.
+    [✔️]Open Intelligent Capture on the Client 360 view and use the Wireless Packet Application Analysis dashlet.
 
     Use the Assurance > Manage > Intelligent Capture Settings > Client Schedule Capture menu.
 
@@ -503,7 +503,7 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
 🔘 QX - Which of the following external applications can help populate Cisco DNA Center with an inventory of network devices?
 
-    X.Cisco Prime Infrastructure
+    [✔️]Cisco Prime Infrastructure
 
     Cisco ISE
 
@@ -518,7 +518,7 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     Basic
 
-    X.Essentials
+    [✔️]Essentials
 
     Advantage
 
@@ -526,7 +526,7 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
 🔘 QX - What is a supported file format to import a Site from Cisco Prime into Cisco DNA Center?
 
-    X.CSV file
+    [✔️]CSV file
 
     .bat file
 
@@ -538,7 +538,7 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     Provides a web interface to configure access control for network devices and clients.
 
-    X.Provides a web interface that accesses the NDP and displays at-a-glance health and issues dashboards, trends and insights, and guided remediation steps.
+    [✔️]Provides a web interface that accesses the NDP and displays at-a-glance health and issues dashboards, trends and insights, and guided remediation steps.
 
     Provides closed-loop automation and provisioning of devices to remediate issues based on calculated insights.
 
@@ -553,13 +553,13 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     Assuring operations using network analytics.
 
-    X.Translating business network behavior into a network policy.
+    [✔️]Translating business network behavior into a network policy.
 
 🔘 QX - If you enable device controllability in Cisco DNA Center, describe what happens when a device is discovered, assigned to a site, and then deleted from Cisco DNA Center.
 
     Cisco DNA Center provisions the device with site attributes and then deprovisions the site attributes when you delete the device.
 
-    X.Cisco DNA Center provisions the device with site attributes, but the site attributes remain provisioned after you delete the device.
+    [✔️]Cisco DNA Center provisions the device with site attributes, but the site attributes remain provisioned after you delete the device.
 
     Cisco DNA Center does not provision or deprovision site attributes if you enable device controllability in Cisco DNA Center.
 
@@ -567,7 +567,7 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
 🔘 QX - Which of the following best describes the role of Cisco CMX?
 
-    X.Provides the exact location of the clients on a floor map within the Cisco DNA Center user interface.
+    [✔️]Provides the exact location of the clients on a floor map within the Cisco DNA Center user interface.
 
     Provides Cisco DNA Center with the health of the wireless clients based on radio signal strength.
 
@@ -584,7 +584,7 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     NetFlow
 
-    X.SNMP
+    [✔️]SNMP
 
     syslog
 
@@ -597,7 +597,7 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     The latest health score calculates every 5-minutes for devices, clients, and applications.
 
-    X.The health score range for clients (wired and wireless) is from 0–10, and a healthy client has a score that ranges from 7–10.
+    [✔️]The health score range for clients (wired and wireless) is from 0–10, and a healthy client has a score that ranges from 7–10.
 
     The overall health of applications is a percentage that is calculated by taking the total number of all healthy applications divided by the total number of applications.
 
@@ -609,7 +609,7 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
     The overall client health consists of both wired and wireless clients.
 
-    X.Wired and wireless client health score is based on the onboarding score plus the connectivity score.
+    [✔️]Wired and wireless client health score is based on the onboarding score plus the connectivity score.
 
     A wireless client’s connectivity score is the minimum score of the RSSI score or SNR score.
 
@@ -617,24 +617,24 @@ Network devices use more compute resources to forward streaming telemetry, but t
 
 🔘 QX - Which three of the following are necessary steps to configure AVC in WLCs? (Choose three.)
 
-X.Add a description containing the keyword lan to the device interfaces that are used for application visibility, then resynchronize the network device.
+[✔️]Add a description containing the keyword lan to the device interfaces that are used for application visibility, then resynchronize the network device.
 
-X.Configure an IP address on the interfaces that are used for application visibility.
+[✔️]Configure an IP address on the interfaces that are used for application visibility.
 
 Configure SNMP read/write credentials on the device.
 
 Apply the Optimal telemetry profile to the network device.
 
-X.Apply the Maximal telemetry profile to the network device.
+[✔️]Apply the Maximal telemetry profile to the network device.
 
 
 🔘 QX - Which two of the following are true statements in the calculation of Application Health scores? (Choose two.)
 
-X.The application health score is based on network QoS KPIs and application QoE.
+[✔️]The application health score is based on network QoS KPIs and application QoE.
 
 The network QoS KPIs are network utilization, network latency, application server latency, packet loss, and jitter.
 
-X.The application QoE is based on VoS scores using Cisco Validated Design thresholds based on traffic class per KPI.
+[✔️]The application QoE is based on VoS scores using Cisco Validated Design thresholds based on traffic class per KPI.
 
 Application health scores are calculated every 15 minutes.
 
@@ -645,17 +645,17 @@ The health score calculation for applications cannot be customized.
 
 The streaming telemetry data collection mechanism is described as a pull instead of a push mechanism.
 
-X.Network management platforms subscribe to the collection of streaming telemetry data; the devices publish the data to the platform based on the subscription.
+[✔️]Network management platforms subscribe to the collection of streaming telemetry data; the devices publish the data to the platform based on the subscription.
 
-X.Streaming telemetry publishes to network management platforms periodically or based on changes in the data.
+[✔️]Streaming telemetry publishes to network management platforms periodically or based on changes in the data.
 
 Network devices use more compute resources to forward streaming telemetry, but the network management platforms update faster.
 
-X.Streaming telemetry is available on Cisco wireless infrastructure devices with specific operating systems.
+[✔️]Streaming telemetry is available on Cisco wireless infrastructure devices with specific operating systems.
 
 🔘 QX - Which of the following statements is true about Cisco DNA Center Assurance?
 
-    X.Assurance is a functional component within the Cisco DNA Center NDP.
+    [✔️]Assurance is a functional component within the Cisco DNA Center NDP.
 
     Assurance is a functional component within the Cisco DNA Center NCP.
 
@@ -672,7 +672,7 @@ X.Streaming telemetry is available on Cisco wireless infrastructure devices with
 
     Determines what is normal for a given network and highlights deviations from expected behavior.
 
-    X.Computes insights based on the embedded knowledge base and evidence, automates complex remediation workflows, and performs complex root cause analysis.
+    [✔️]Computes insights based on the embedded knowledge base and evidence, automates complex remediation workflows, and performs complex root cause analysis.
 
 
 🔘 QX - Which two of the following issues are detected by the Cisco AI Network Analytics features? (Choose two.)
@@ -681,9 +681,9 @@ AP coverage hole issue
 
 WLC excessive time lag from Cisco DNA Center
 
-X.Onboarding wireless client connection issues
+[✔️]Onboarding wireless client connection issues
 
-X.Application experience issues
+[✔️]Application experience issues
 
 Layer 2 loop issues (switch or router)
 
@@ -693,7 +693,7 @@ Layer 2 loop issues (switch or router)
 
     Period (month/year), KPI, RF band
 
-    X.Site, period (month/year), KPI
+    [✔️]Site, period (month/year), KPI
 
     Site, period (month/year), RF band
 
@@ -703,7 +703,7 @@ Layer 2 loop issues (switch or router)
 
     Applies advanced artificial intelligence to provide anomaly resolution of wired and wireless issues.
 
-    X.Applies advanced artificial intelligence and machine learning technologies to provide anomaly detection, remediation, network insights and trends, and comparative benchmarking.
+    [✔️]Applies advanced artificial intelligence and machine learning technologies to provide anomaly detection, remediation, network insights and trends, and comparative benchmarking.
 
     Applies advanced artificial intelligence to provide network insights and trends and comparative benchmarking.
 
@@ -711,7 +711,7 @@ Layer 2 loop issues (switch or router)
 
 🔘 QX - Which statement best describes the use of the Device 360 view for viewing and evaluating issues?
 
-    X.View the device health score, KPIs, and events on a timeline and list of open, resolved, and ignored issues.
+    [✔️]View the device health score, KPIs, and events on a timeline and list of open, resolved, and ignored issues.
 
     View the device health score, KPIs, and events on a timeline and list of open issues.
 
@@ -726,25 +726,25 @@ Layer 2 loop issues (switch or router)
 
 Circles represent a building and polygons represent an AP radio.
 
-x.Circles represent an AP radio, and polygons represent a building.
+[✔️]Circles represent an AP radio, and polygons represent a building.
 
-x.The number of issues is reflected by a change in color in the shape on the beeswarm chart.
+[✔️]The number of issues is reflected by a change in color in the shape on the beeswarm chart.
 
 Issues are not represented in a beeswarm chart; only network insights display.
 
 Network insights display a 7-day time period.
 
-x.Network insights display a 4-week time period.
+[✔️]Network insights display a 4-week time period.
 
 An arrow between shapes indicates the traffic flow between AP devices and buildings.
 
-x.An arrow between shapes indicates a deviation in a monitored KPI.
+[✔️]An arrow between shapes indicates a deviation in a monitored KPI.
 
 🔘 QX - Which of the following is available with the on-premise and cloud-based Cisco AI Network Analytics feature, but significantly enhanced when the cloud-based AI/ML engine is connected?
 
     Baselining
 
-    x.Anomaly Detection
+    [✔️]Anomaly Detection
 
     Insights and Trends
 
@@ -756,13 +756,13 @@ x.An arrow between shapes indicates a deviation in a monitored KPI.
 
 Onboarding Events
 
-x.Channel Utilization
+[✔️]Channel Utilization
 
-x.Power and Noise
+[✔️]Power and Noise
 
 Application Analysis
 
-x.Interference
+[✔️]Interference
 
 
 🔘 QX - Which of the following statements regarding sensor tests is true?
@@ -771,7 +771,7 @@ x.Interference
 
     A sensor test template can be configured to test only one radio band
 
-    x.A sensor can have only one test template applied.
+    [✔️]A sensor can have only one test template applied.
 
     Sensor tests can be scheduled only on specific days and times or run at periodic intervals.
 
@@ -783,9 +783,9 @@ Client 360 view
 
 Client Health dashboard
 
-x.Sensor tests
+[✔️]Sensor tests
 
-x.Intelligent Capture
+[✔️]Intelligent Capture
 
 Cisco AI Network Analytics
 
@@ -793,7 +793,7 @@ Cisco AI Network Analytics
 
     The spectrum analysis duration is for 1 minute for up to 10 capture sessions.
 
-    x.The spectrum analysis duration is for 5 minutes for up to 10 capture sessions.
+    [✔️]The spectrum analysis duration is for 5 minutes for up to 10 capture sessions.
 
     The spectrum analysis duration is for 5 minutes for up to 20 capture sessions.
 
@@ -801,7 +801,7 @@ Cisco AI Network Analytics
 
 🔘 QX - How do you launch the Auto Packet Analyzer feature to troubleshoot client onboarding issues?
 
-    x.Open Intelligent Capture on Client 360 view, choose an anomaly event that is labeled with a PCAP icon.
+   [✔️]Open Intelligent Capture on Client 360 view, choose an anomaly event that is labeled with a PCAP icon.
 
     Open Intelligent Capture on the Client 360 view and use the Wireless Packet Application Analysis dashlet.
 
@@ -812,7 +812,7 @@ Cisco AI Network Analytics
 
 🔘 QX - Cisco DNA Center Assurance communicates with Cisco Aironet 1800 Active sensors through a wired or wireless backhaul channel with which protocol?
 
-    x.HTTPS
+    [✔️]HTTPS
 
     SSH
 
@@ -822,9 +822,9 @@ Cisco AI Network Analytics
 
 🔘 QX - Which two of the following must you enable in Cisco DNA Center or integrate with Cisco DNA Center to allow you to view coverage heatmaps with real-time wireless client location tracking? (Choose two.)
 
-X.Cisco CMX Integration
+[✔️]Cisco CMX Integration
 
-X.Intelligent Capture
+[✔️]Intelligent Capture
 
 Cisco AI Network Analytics
 
